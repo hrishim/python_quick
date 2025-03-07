@@ -20,3 +20,8 @@ getting bogged down in memory allocation. This write-up will help you transition
 your skills to Python, leveraging its strengths to build robust and efficient
 applications quickly. Through practical examples and exercises, you'll learn how
 to harness Python's capabilities to achieve your programming goals.
+
+How to run the Jupyter notebooks online?
+
+Log in to Google Colab and clone this git repository or import the notebooks directly.
+![Colab(images/colab.png)]
