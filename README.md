@@ -24,4 +24,4 @@ to harness Python's capabilities to achieve your programming goals.
 How to run the Jupyter notebooks online?
 
 Log in to Google Colab and clone this git repository or import the notebooks directly.
-![Colab(images/colab.png)]
+![Colab](images/colab.png)
